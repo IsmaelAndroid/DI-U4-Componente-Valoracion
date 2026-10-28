@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Icono de la app: una estrella sobre fondo oscuro -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <path android:fillColor="#263238" android:pathData="M0,0h48v48h-48z" />
+    <path android:fillColor="#FFB300" android:pathData="M24,6 L28.2,18.3 L41.1,18.4 L30.8,26.2 L34.6,38.6 L24,31.1 L13.4,38.6 L17.2,26.2 L6.9,18.4 L19.8,18.3 Z" />
+</vector>

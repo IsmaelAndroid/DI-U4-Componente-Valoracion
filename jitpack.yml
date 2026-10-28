@@ -1,0 +1,6 @@
+# Instrucciones para JitPack (https://jitpack.io), que compila la librería cuando alguien la pide.
+# Solo publica el módulo del componente: la app de demostración no hace falta.
+jdk:
+  - openjdk17
+install:
+  - ./gradlew :valoracion:publishToMavenLocal
